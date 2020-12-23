@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * DeadSkull
+* Capitán America
